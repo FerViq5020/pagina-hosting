@@ -1,0 +1,50 @@
+body {
+	background: #D4D0D0;
+}
+table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+table td {
+	border: 1px solid #000;
+	padding: 15px;
+	background: gray;
+}
+
+table td:hover {
+	background: #ccc;
+}
+
+h1 {
+	background: #fff;
+}
+
+div#general {
+	background: #9ABDB7;
+	padding: 20px;
+	padding-top: 20px;
+	height: 300px;
+}
+
+div#lista {
+	float: left;
+	width: 200px;
+	height: 225px; 
+	padding: 10px;
+	background: #252A29;
+	color: #fff;
+}
+
+div#tab {
+	float: left;
+	padding: 20px;
+	width: 200px;
+}
+ 
+#alumno {
+	float: right;
+	width: 350px;
+	height: 300px;
+
+}
